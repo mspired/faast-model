@@ -19,7 +19,7 @@ Developed for physiologists, clinicians, and engineers, FAAST reproduces key phe
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/<your‑username>/faast-model.git
+$ git clone https://github.com/mspired/faast-model.git
 $ cd faast-model
 
 # Create the Conda environment
